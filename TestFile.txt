@@ -1,1 +1,6 @@
 This is a Test File.
+
+********************
+
+This test file is changed in Branch_v1.2
+***********************************
